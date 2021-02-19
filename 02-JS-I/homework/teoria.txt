@@ -1,0 +1,5 @@
+Variables: es una cajita a la cual le podemos dar un nombre y asignarle un valor. Se crea con la palabra clave var. Ej: var auto = honda
+Strings: son caracteres de texto o una cadena de caracteres de texto, se escriben entre "" o ''
+Funciones (argumentos, return): las funciones nos permiten automatizar procesos. En estas podemos guardar una serie de datos como 2 + 2 = 4 y utilizarla más tarde. Las funciones siempre reciben un argumento(n,n) y retornan algo (2 + 2 = 4)
+Declaraciones if: es un operador de control que sirve para verificar si algo es verdadero y que realice la acción determinada o si es falso y que realice la accion determinada.
+Valores booleanos (true, false): los booleanos nos dan dos opciones, verdadero o falso. Cualquier tipo de dato se puede convertir en booleano y sera v o f segun su circunstancia.

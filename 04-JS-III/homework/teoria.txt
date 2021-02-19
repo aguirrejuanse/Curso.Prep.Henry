@@ -1,0 +1,1 @@
+Arrays: son contenedores de datos. En estos podemos guardar todo tipo de datos. A cada dato se le asigna un numero comenzando desde el 0 y podemos manipularlo a nuestro antojo.

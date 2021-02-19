@@ -1,0 +1,2 @@
+for: es un bucle que nos permite recorrer un array, devolviendonos lo que buscamos o deteniendose cuando su cumpla una condicion
+&&, ||, !: son operadores logicos. && significa "Y" y devolvera true si ambas condiciones son verdaderas. || significa "O" y devolvera true si una de las condiciones es verdadera. ! significa "NO" y devuelve el valor booleano opuesto de lo que se le pase.
