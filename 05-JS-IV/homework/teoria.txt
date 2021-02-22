@@ -1,0 +1,5 @@
+Objetos: los objetos son parecidos a los array, la diferencia es que en un objeto podemos tener mucha información sobre una cosa y en un array poca información sobre muchas cosas
+Propiedades: las propiedades utilizan el principio key:value. Cada propiedad tiene una key que será el nombre y un value que será lo que queramos depositar dentro. Los valores pueden ser cualquier tipo de dato.
+Métodos: un método es una función guardada en un valor. 
+Bucle for…in: es un bucle que nos permite recorrer un objeto mediante las propiedades.
+Notación de puntos vs notación de corchetes: estas nos permiten acceder a los valores de un objeto para poder modificarlos o simplemente saber que hay dentro. Con Puntos escribiremos por ej auto.marca mientras que con Brackets escribiremos auto['marca']
