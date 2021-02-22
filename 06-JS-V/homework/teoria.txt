@@ -1,0 +1,2 @@
+prototype: mediante este podemos agregarle funciones a las clases existentes sin tener que repetir el codigo y ahorrandonos mucha memoria
+Constructors (de Clases): es una planilla de objetos que comparten propiedades y metodos. Con un constructor nos ahorramos tener que escribir por completo cada objeto que queramos
