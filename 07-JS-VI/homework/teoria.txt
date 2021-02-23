@@ -1,0 +1,1 @@
+Funciones Callback: un Callback es una funcion que se pasa por argumento a otra funcion. Estas sirven para reutilizar codigo y nos permite usar funciones dentro de una funcion.
