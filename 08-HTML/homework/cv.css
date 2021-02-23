@@ -1,0 +1,10 @@
+#imagen {
+    width: 200px;
+    height: 200px;
+}
+body { 
+    background-color: #222; 
+    color: #FFF; 
+    font-family: 'Saira', sans-serif; 
+    font-weight: 700;
+}
